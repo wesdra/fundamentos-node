@@ -30,5 +30,4 @@ class CreateTransactionService {
     return Transaction;
   }
 }
-
 export default CreateTransactionService;
