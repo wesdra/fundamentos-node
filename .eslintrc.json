@@ -37,7 +37,8 @@
     "import/resolver":{
       "typescript": {}
     }
-  }
+  },
+  "endOfLine":"auto"
 }
-// ,"endOfLine":"auto"
+//
 
